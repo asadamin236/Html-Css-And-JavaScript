@@ -1,0 +1,6 @@
+X = int(input("Enter A Number"))
+Y= int(input("Enter A Number"))
+print(X*Y)
+print(X+Y)
+print(X-Y)
+print(X/Y)
